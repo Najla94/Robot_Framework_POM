@@ -8,7 +8,12 @@ If you want to use the Robot Framework, you need to download the library using t
 3. Install libraries based on your use:
     Selenium-- pip install robotframework-seleniumlibrary
     Appium--   pip install robotframework-appiumlibrary
-4. Install Drivers:
+4. Install uiautomator:
+    pip install uiautomator  
+5. Install Drivers:
    Android/IOS
-5. Start the Appium Server:
-   appium     
+6. Start the Appium Server:
+   appium
+7. Download the application on the emulator
+    - wdio-app
+ 
